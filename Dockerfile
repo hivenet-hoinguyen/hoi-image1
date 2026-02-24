@@ -1,2 +1,2 @@
-FROM alpine:latest
-CMD ["sleep","600"]
+FROM ubuntu:latest
+CMD ["sleep","infinity"]
